@@ -1,0 +1,5 @@
+{
+  "name": "QR Code Generator",
+  "description": "A powerful and stylish QR Code Generator application built with React and Tailwind CSS. Create custom QR codes for URLs, text, and vCard contact information with live preview and download options.",
+  "requestFramePermissions": []
+}
